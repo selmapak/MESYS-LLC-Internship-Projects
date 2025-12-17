@@ -25,9 +25,6 @@ All tables are connected in Tableau using **relationships** (not physical joins)
 Due to file size limitations, the datasets used in this project are shared via Google Drive.
 https://drive.google.com/drive/u/0/folders/1zHv--tBLoEku61ygPHDVBhhTDHKhcXRx
 
-**Download Datasets (CSV files):**  
-https://drive.google.com/your-folder-link-here
-
 ## Tableau Dashboard
 
 Due to file size limitations, the Tableau workbook is shared via Google Drive.
