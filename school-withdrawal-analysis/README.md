@@ -19,3 +19,5 @@ The analysis is based on the following datasets:
 - **Rejected.csv** – Students whose registrations were rejected  
 
 All tables are connected in Tableau using **relationships** (not physical joins), sometimes on single keys and sometimes on multiple fields.
+## Project Datasets
+All CSV files are stored in `data/` folder.
