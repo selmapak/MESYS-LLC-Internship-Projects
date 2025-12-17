@@ -1,6 +1,21 @@
-## Tableau Project
 
-### School Withdrawal Analysis
-An interactive Tableau project analyzing student withdrawal rates across time, geography, and demographics.
+# School Withdrawal Analysis (Tableau Project)
 
-Project folder: `/school-withdrawal-analysis`
+## Project Overview
+This project analyzes student withdrawal (dropout) rates using multiple school-related datasets.  
+The goal is to understand **when**, **where**, and **why** students leave the education system, using interactive Tableau dashboards.
+
+The project was completed as part of a data analytics internship task and focuses on data modeling, calculated fields, and dashboard storytelling in Tableau.
+
+
+## Data Sources
+The analysis is based on the following datasets:
+
+- **Schools.csv** – School information and locations  
+- **Students.csv** – Student demographics (gender, city, region, etc.)  
+- **SchoolRegistration.csv** – Student registrations by school and year  
+- **Withdrawals.csv** – Students who withdrew and their withdrawal year  
+- **Graduates.csv** – Students who successfully graduated  
+- **Rejected.csv** – Students whose registrations were rejected  
+
+All tables are connected in Tableau using **relationships** (not physical joins), sometimes on single keys and sometimes on multiple fields.
