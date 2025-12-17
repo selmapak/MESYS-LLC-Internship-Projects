@@ -19,5 +19,21 @@ The analysis is based on the following datasets:
 - **Rejected.csv** – Students whose registrations were rejected  
 
 All tables are connected in Tableau using **relationships** (not physical joins), sometimes on single keys and sometimes on multiple fields.
-## Project Datasets
-All CSV files are stored in `data/` folder.
+
+## Dataset Access
+
+Due to file size limitations, the datasets used in this project are shared via Google Drive.
+https://drive.google.com/drive/u/0/folders/1zHv--tBLoEku61ygPHDVBhhTDHKhcXRx
+
+**Download Datasets (CSV files):**  
+https://drive.google.com/your-folder-link-here
+
+## Tableau Dashboard
+
+Due to file size limitations, the Tableau workbook is shared via Google Drive.
+
+**Download Tableau Workbook:**  
+https://drive.google.com/your-link-here 
+https://drive.google.com/drive/u/0/folders/1zHv--tBLoEku61ygPHDVBhhTDHKhcXRx
+
+> The workbook can be opened in Tableau Desktop to explore interactive dashboards and calculated fields.
