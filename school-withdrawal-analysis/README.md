@@ -38,6 +38,6 @@ https://drive.google.com/drive/u/0/folders/1zHv--tBLoEku61ygPHDVBhhTDHKhcXRx
 Below are selected views from the Tableau dashboards created in this project.
 These static exports are provided for quick review.
 ### Withdrawal Overview Dashboard
-![Withdrawal Overview Dashboard]
+![Withdrawal Overview Dashboard] https://github.com/selmapak/MERSYS-LLC-Internship-Projects/blob/main/school-withdrawal-analysis/exports/Withdrawal%20Overview%20Dashboard.png
 ### Gender-based Withdrawal Analysis Dashboard
 ![Gender-based Withdrawal Analysis Dashboard ] https://github.com/selmapak/MERSYS-LLC-Internship-Projects/blob/main/school-withdrawal-analysis/exports/Gender-based%20Withdrawal%20Analysis%20Dashboard.png
