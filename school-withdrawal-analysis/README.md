@@ -33,3 +33,9 @@ Due to file size limitations, the Tableau workbook is shared via Google Drive.
 https://drive.google.com/drive/u/0/folders/1zHv--tBLoEku61ygPHDVBhhTDHKhcXRx
 
 > The workbook can be opened in Tableau Desktop to explore interactive dashboards and calculated fields.
+## Dashboard Preview
+
+Below are selected views from the Tableau dashboards created in this project.
+These static exports are provided for quick review.
+### Withdrawal Overview Dashboard
+### Gender-based Withdrawal Analysis Dashboard
