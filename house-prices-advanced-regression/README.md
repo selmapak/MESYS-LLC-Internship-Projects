@@ -22,6 +22,6 @@ The dataset contains 79 explanatory variables describing almost every aspect of 
 - Gradient Boosting outperformed Ridge Regression, suggesting it captures non-linear relationships in the data more effectively.
 
 ## Usage
-1. Open `notebooks/Ames_EDA_Modeling.ipynb`.
+1. Open `notebooks/house_prices_EDA_Transformation_Model.ipynb`.
 2. Run all cells to reproduce EDA, feature engineering, and modeling.
 3. The final predictions for test data are saved in `submission.csv`.
