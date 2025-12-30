@@ -19,7 +19,7 @@ The model incorporates **external (exogenous) variables** such as **temperature*
 | `date`        | Daily date |
 | `orders`     | Number of orders per day (target variable) |
 | `temperature`| Daily average temperature |
-| `ad_spend`   | Daily advertising expenditure |
+| `media_spend`   | Daily advertising expenditure |
 
 Key assumptions:
 - Orders tend to **increase during colder weather** as customers prefer staying at home.
