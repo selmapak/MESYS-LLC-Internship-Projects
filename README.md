@@ -1,1 +1,2 @@
 # MERSYS-LLC-Internship-Projects
+This repository contains the projects I worked on during my data science internship at MERSYS LLC. The projects include exploratory data analysis, basic feature engineering, and building machine learning models using Python. I used regression and other common algorithms to analyze datasets and evaluate model performance. These projects helped me practice applying data science concepts, improving my coding skills, and understanding the full workflow from data preparation to model evaluation.
